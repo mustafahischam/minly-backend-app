@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+.img-container {
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    display: inline-block;
+}
+
+.img-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.like-button {
+    margin-top: 10px;
+    cursor: pointer;
+}
